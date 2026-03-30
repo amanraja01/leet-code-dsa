@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amanraja01/leet-code-dsa/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/amanraja01/leet-code-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amanraja01/leet-code-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/amanraja01/leet-code-dsa/tree/master/0169-majority-element) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amanraja01/leet-code-dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amanraja01/leet-code-dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 ## Divide and Conquer
