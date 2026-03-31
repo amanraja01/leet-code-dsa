@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amanraja01/leet-code-dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amanraja01/leet-code-dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/amanraja01/leet-code-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amanraja01/leet-code-dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/amanraja01/leet-code-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0414-third-maximum-number) |
 ## Counting
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/amanraja01/leet-code-dsa/tree/master/0463-island-perimeter) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/amanraja01/leet-code-dsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
