@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/amanraja01/leet-code-dsa/tree/master/0463-island-perimeter) |
+| [0867-transpose-matrix](https://github.com/amanraja01/leet-code-dsa/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,9 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/amanraja01/leet-code-dsa/tree/master/0463-island-perimeter) |
+| [0867-transpose-matrix](https://github.com/amanraja01/leet-code-dsa/tree/master/0867-transpose-matrix) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amanraja01/leet-code-dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/amanraja01/leet-code-dsa/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/amanraja01/leet-code-dsa/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
