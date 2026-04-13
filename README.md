@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/amanraja01/leet-code-dsa/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/amanraja01/leet-code-dsa/tree/master/0867-transpose-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/amanraja01/leet-code-dsa/tree/master/0867-transpose-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
