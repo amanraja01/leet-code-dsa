@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amanraja01/leet-code-dsa/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/amanraja01/leet-code-dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amanraja01/leet-code-dsa/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/amanraja01/leet-code-dsa/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
