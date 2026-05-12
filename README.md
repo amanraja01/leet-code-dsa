@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/amanraja01/leet-code-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amanraja01/leet-code-dsa/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/amanraja01/leet-code-dsa/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
