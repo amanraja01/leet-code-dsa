@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0509-fibonacci-number) |
+| [1518-water-bottles](https://github.com/amanraja01/leet-code-dsa/tree/master/1518-water-bottles) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/amanraja01/leet-code-dsa/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/amanraja01/leet-code-dsa/tree/master/1518-water-bottles) |
 ## Prefix Sum
 |  |
 | ------- |
