@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/amanraja01/leet-code-dsa/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/amanraja01/leet-code-dsa/tree/master/0867-transpose-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amanraja01/leet-code-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
