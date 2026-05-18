@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amanraja01/leet-code-dsa/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/amanraja01/leet-code-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amanraja01/leet-code-dsa/tree/master/0119-pascals-triangle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanraja01/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/amanraja01/leet-code-dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0414-third-maximum-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanraja01/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/amanraja01/leet-code-dsa/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/amanraja01/leet-code-dsa/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanraja01/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanraja01/leet-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
