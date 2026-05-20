@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/amanraja01/leet-code-dsa/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/amanraja01/leet-code-dsa/tree/master/1518-water-bottles) |
 ## Binary Search
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/amanraja01/leet-code-dsa/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
