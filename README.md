@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/amanraja01/leet-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/amanraja01/leet-code-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
