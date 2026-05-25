@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/amanraja01/leet-code-dsa/tree/master/0463-island-perimeter) |
+| [0704-binary-search](https://github.com/amanraja01/leet-code-dsa/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/amanraja01/leet-code-dsa/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanraja01/leet-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amanraja01/leet-code-dsa/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanraja01/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/amanraja01/leet-code-dsa/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
