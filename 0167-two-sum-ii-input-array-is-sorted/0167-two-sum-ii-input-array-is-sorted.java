@@ -1,24 +1,21 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int ans[] = new int[2];
-        int start = 0;
-        int end = numbers.length-1;
-     
-      while(start<end){
-        int sum = numbers[start]+numbers[end];
 
-        if(sum == target){
-            ans[0]= start+1;
-            ans[1]=end+1;
-            return ans;
-        } else if(sum>target){
-    
-        end--;
-      }else{
-            start++;
-      }
-     
+        HashMap<Integer,Integer> map = new HashMap<>();
+
+        int sum = 0;
+
+        for(int i = 0; i < numbers.length; i++) {
+            sum = target - numbers[i];
+
+            if(map.containsKey(sum)) {
+                return new int[]{map.get(sum) + 1, i + 1};
+            }
+            else {
+                map.put(numbers[i], i);
+            }
+        }
+
+        return new int[]{-1, -1};
     }
-    return ans;
-}
 }
