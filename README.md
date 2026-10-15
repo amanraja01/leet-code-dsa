@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/amanraja01/leet-code-dsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/amanraja01/leet-code-dsa/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0509-fibonacci-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanraja01/leet-code-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/amanraja01/leet-code-dsa/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanraja01/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/amanraja01/leet-code-dsa/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/amanraja01/leet-code-dsa/tree/master/0704-binary-search) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/amanraja01/leet-code-dsa/tree/master/0319-bulb-switcher) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amanraja01/leet-code-dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
