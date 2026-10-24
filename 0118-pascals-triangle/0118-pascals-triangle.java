@@ -3,12 +3,12 @@ class Solution {
 
       List<List<Integer>> list = new ArrayList<>();
       
-      List<Integer> temp = new ArrayList<>(1);
+      List<Integer> temp = new ArrayList<>();
          temp.add(1);
          numRows --;
          list.add(temp);
 
-         List<Integer> prev = new ArrayList<>(1);
+         List<Integer> prev = new ArrayList<>();
 
          for(int i = 1; i <= numRows; i++){
            List<Integer> l = new ArrayList<>();
